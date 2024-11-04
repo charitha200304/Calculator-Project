@@ -53,7 +53,7 @@ body {
     width: 500px;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 30px #bc8a01;
+    box-shadow: 0 0 30px #00b4d8;
 }
 
 .theme-toggler {
@@ -174,7 +174,7 @@ button#equal {
   }
 
   .calculator.dark button.btn-operator {
-    background-color: #fda500;
+    background-color: #00b4d8;
     color: #000000;
   }
   
