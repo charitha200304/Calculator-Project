@@ -16,7 +16,7 @@ a {
 }
 
 body {
-    background-image: linear-gradient( to bottom right, rgb(8, 15, 121),rgb(32, 132, 226));
+    background-image: linear-gradient( to bottom right, rgb(255, 255, 255),rgb(255, 255, 255));
 }
 
 .back-video{
@@ -53,7 +53,7 @@ body {
     width: 500px;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 30px #fda500;
+    box-shadow: 0 0 30px #bc8a01;
 }
 
 .theme-toggler {
